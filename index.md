@@ -5,4 +5,3 @@
 ## V-backup
 
 Youtube Vanced 備份(Root+non root) 
-[Click here](https://github.com/linbei9487/V-backup)
